@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.36e63029.js",
-    "static/js/787.fa690fe2.chunk.js": "/static/js/787.fa690fe2.chunk.js",
-    "index.html": "/index.html",
-    "main.36e63029.js.map": "/static/js/main.36e63029.js.map",
-    "787.fa690fe2.chunk.js.map": "/static/js/787.fa690fe2.chunk.js.map"
+    "main.js": "/ts-weather-app/static/js/main.96448d7b.js",
+    "static/js/787.fa690fe2.chunk.js": "/ts-weather-app/static/js/787.fa690fe2.chunk.js",
+    "index.html": "/ts-weather-app/index.html",
+    "main.96448d7b.js.map": "/ts-weather-app/static/js/main.96448d7b.js.map",
+    "787.fa690fe2.chunk.js.map": "/ts-weather-app/static/js/787.fa690fe2.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.36e63029.js"
+    "static/js/main.96448d7b.js"
   ]
 }
