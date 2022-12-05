@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/Deadburn/ts-weather-app">
       Solution
     </a>
     <span> | </span>
@@ -37,7 +37,11 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://user-images.githubusercontent.com/80601286/205678804-ba9f2cb4-dc32-41a6-b26a-50ce56adacb0.png)
+![screen2](https://user-images.githubusercontent.com/80601286/205678914-29f2a1eb-1ae5-4435-95c0-5b04f1281422.png)
+![responsive](https://user-images.githubusercontent.com/80601286/205678944-27fa2c6f-3fbf-45c0-9b42-85c904e25b32.png)
+
+
 
 
 
@@ -73,7 +77,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone [https://github.com/your-user-name/your-project-name](https://github.com/Deadburn/ts-weather-app)
 
 # Install dependencies
 $ npm install
