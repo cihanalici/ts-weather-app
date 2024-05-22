@@ -87,3 +87,8 @@ $ npm start
 ```
 
 ## 🤝 Contributing
+
+I would love your help! Contribute by forking the repo and opening pull requests. Please ensure that your code passes the existing tests and linting, and write tests to test your changes if applicable.
+
+All pull requests should be submitted to the main branch.
+
